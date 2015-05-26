@@ -41,6 +41,8 @@ md-list .md-button {
 
 #content {
   overflow: hidden;
+  background: #ffffff;
+  color: #212121;
 }
 
 #content  {
@@ -127,4 +129,8 @@ span.name {
   font-weight: bold;
   font-size:1.1em;
   padding-left:5px;
+}
+md-toolbar.md-default-theme {
+  background: #5b00ff;
+  height: 25vh;
 }
